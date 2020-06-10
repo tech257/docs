@@ -20,7 +20,6 @@ any other concerns, please notify an administrator immediately, or email
 # Admins
 
 * Chretien Mwizerwa
-* David Abiyah
 * Jonathan Nkurunziza
 
 ## Role of Admins
