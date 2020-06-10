@@ -20,6 +20,7 @@ any other concerns, please notify an administrator immediately, or email
 # Admins
 
 * Chretien Mwizerwa
+* Jean-Mistere Niyiragira
 * Jonathan Nkurunziza
 
 ## Role of Admins
