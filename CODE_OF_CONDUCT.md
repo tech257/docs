@@ -19,11 +19,9 @@ any other concerns, please notify an administrator immediately, or email
 
 # Admins
 
-* Aaron Feng
-* John Dyer
-* Michael Langford
-* Patrick Van Stee
-* Randall McPherson
+* Chretien Mwizerwa
+* David Abiyah
+* Jonathan Nkurunziza
 
 ## Role of Admins
 
