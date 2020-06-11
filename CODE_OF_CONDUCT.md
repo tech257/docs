@@ -14,7 +14,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, please notify an administrator immediately, or email
-<tech257@gmail.com>.
+<feedback.tech257@gmail.com>.
 
 
 # Admins
