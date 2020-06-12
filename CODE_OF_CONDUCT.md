@@ -19,6 +19,7 @@ any other concerns, please notify an administrator immediately, or email
 
 # Admins
 
+* Alex Nahimana
 * Chretien Mwizerwa
 * Jean-Mistere Niyiragira
 * Jonathan Nkurunziza
