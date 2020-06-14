@@ -21,8 +21,8 @@ any other concerns, please notify an administrator immediately, or email
 
 * Alex Nahimana
 * Chretien Mwizerwa
+* Freeman Irabaruta
 * Jean-Mistere Niyiragira
-* Jonathan Nkurunziza
 
 ## Role of Admins
 
